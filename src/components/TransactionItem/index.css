@@ -1,0 +1,27 @@
+.his-list-item {
+  display: flex;
+  border-style: solid;
+  border-color: #d7dfe9;
+  border-top-width: 0px;
+}
+
+.his-cell-width {
+  width: 28%;
+  overflow: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.delete-button {
+  border-style: none;
+  background-color: none;
+}
+
+.delete-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.his-list-head {
+  font-size: 18px;
+}
